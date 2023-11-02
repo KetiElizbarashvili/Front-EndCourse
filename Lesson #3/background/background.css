@@ -1,0 +1,32 @@
+div {
+
+    background-color: green;
+    opacity: 0.3;
+    width: 100px;
+    height: 300px;
+    padding: 20px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;  
+    
+  } 
+
+  
+
+  .text{
+    color: black;
+    font-size: 20px;
+  }
+
+  body {
+    background-color: black;
+  } 
+
+/*  tanmimdevroba 
+
+margin-top
+margin-right
+margin-bottom
+margin-left 
+*/
