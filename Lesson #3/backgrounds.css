@@ -1,0 +1,44 @@
+/* 
+background-color
+background-image
+background-repeat
+background-attachment
+background-position 
+
+background-color: 
+body {
+  background-color: lightblue;
+} 
+
+opacity 
+
+div {
+  background-color: green;
+  opacity: 0.3;
+} 
+
+body {
+  background-image: url("");
+} 
+
+p {
+  background-image: url("");
+} 
+
+body {
+  background-image: url("gradient_bg.png");
+  background-repeat: repeat-x;
+} 
+
+body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+} 
+
+body {
+  background-image: url('w3css.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+} 
