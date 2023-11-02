@@ -3,10 +3,13 @@ p {
   } 
 
 
-/* This is
-a multi-line
-comment */
+
+ /* Set text color to red */ 
 
 p {
-  color: red;
+  color: red; 
 } 
+
+
+  
+

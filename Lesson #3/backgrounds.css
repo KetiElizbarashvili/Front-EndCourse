@@ -2,8 +2,6 @@
 background-color
 background-image
 background-repeat
-background-attachment
-background-position 
 
 background-color: 
 body {
@@ -42,3 +40,6 @@ body {
   background-attachment: fixed;
   background-position: center;
 } 
+
+
+*/ 
